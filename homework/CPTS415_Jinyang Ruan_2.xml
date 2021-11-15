@@ -1,0 +1,69 @@
+<Airports>
+    <Airport>
+        <Airport id = “1”>
+        <Name> Goroka Airport </Name>
+        <City> Goroka </City>
+        <Country> Papua New Guinea </Country>
+        <IATA> GKA </IATA>
+        <ICAO> AYGA </ICAO>
+        <Latitude> -6.081689834590001</Latitude>
+        <Longitude> 145.391998291 </Longitude>
+        <Altitude> 5282 </Altitude>
+        <Timezone> 10 </Timezone>
+        <DST> U </DST>
+        <Tz Database time zone> Pacific/Port Moresby </Tz Database time zone>
+        <Type> airport </Type>
+        <Source> OurAirports </Source>
+    </Airport>
+
+    <Airport>
+        <Airport id = “2”>
+        <Name> Madang Airport </Name>
+        <City> Madang </City>
+        <Country> Papua New Guinea </Country>
+        <IATA> MAG </IATA>
+        <ICAO> AYMD </ICAO>
+        <Latitude> -5.20707988739 </Latitude>
+        <Longitude> 145.789001465 </Longitude>
+        <Altitude> 20 </Altitude>
+        <Timezone> 10 </Timezone>
+        <DST> U </DST>
+        <Tz Database time zone> Pacific/Port Moresby </Tz Database time zone>
+        <Type> airport </Type>
+        <Source> OurAirports </Source>
+    </Airport>
+
+    <Airport>
+        <Airport id = “3”>
+        <Name> Mount Hagen Kagamuga Airport </Name>
+        <City> Mount Hagen </City>
+        <Country> Papua New Guinea </Country>
+        <IATA> HGU </IATA>
+        <ICAO> AYMH </ICAO>
+        <Latitude> -5.826789855957031 </Latitude>
+        <Longitude> 144.29600524902344 </Longitude>
+        <Altitude> 5388 </Altitude>
+        <Timezone> 10 </Timezone>
+        <DST> U </DST>
+        <Tz Database time zone> Pacific/Port Moresby </Tz Database time zone>
+        <Type> airport </Type>
+        <Source> OurAirports </Source>
+    </Airport>
+	
+    <Airport>
+        <Airport id = “4”>
+        <Name> Nadzab Airport </Name>
+        <City> Nadzab Hagen </City>
+        <Country> Papua New Guinea </Country>
+        <IATA> LAE </IATA>
+        <ICAO> AYNZ </ICAO>
+        <Latitude> -6.569803 </Latitude>
+        <Longitude> 146.725977 </Longitude>
+        <Altitude> 239 </Altitude>
+        <Timezone> 10 </Timezone>
+        <DST> U </DST>
+        <Tz Database time zone> Pacific/Port Moresby </Tz Database time zone>
+        <Type> airport </Type>
+        <Source> OurAirports </Source>
+    </Airport>
+</Airports>
