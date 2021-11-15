@@ -1,0 +1,21 @@
+---
+title: "Project Data Prepare"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+
+airlines <- read.csv("D:/WSU Graduate/CPT_S 415 Big Data/project/CPTS-415-main/airlines.csv")
+
+write.csv(airlines, file = "D:/WSU Graduate/CPT_S 415 Big Data/project/airlines.csv", quote = FALSE, row.names = FALSE)
+
+airports <- read.csv("D:/WSU Graduate/CPT_S 415 Big Data/project/CPTS-415-main/airports.csv")
+
+write.csv(airports, file = "D:/WSU Graduate/CPT_S 415 Big Data/project/airports.csv", quote = FALSE, row.names = FALSE)
+
+routes <- read.csv("D:/WSU Graduate/CPT_S 415 Big Data/project/CPTS-415-main/routes.csv")
+
+write.csv(routes, file = "D:/WSU Graduate/CPT_S 415 Big Data/project/routes.csv", quote = FALSE, row.names = FALSE)
+
+```
+
